@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304573488583",
+    "project_id": "petscard-3c5fb",
+    "storage_bucket": "petscard-3c5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304573488583:android:8a12cf8424bf47826ecde2",
+        "android_client_info": {
+          "package_name": "com.tec.petscard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304573488583-pe4j43uapporc33q6fbcs2tq1t995ns8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUH3aHVmwmIp29GFO5Nd7k7YDebkE_gd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304573488583-pe4j43uapporc33q6fbcs2tq1t995ns8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

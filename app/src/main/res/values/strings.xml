@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">PetsCard</string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="login_user_hint">User</string>
+    <string name="login_password_hint">Password</string>
+    <string name="action_login">Login</string>
+    <string name="action_signup"><u>Sign up</u></string>
+    <string name="action_password_forgotten"><u>Password forgotten</u></string>
+    <string name="login_error_field_required">*Required</string>
+    <string name="login_error_user_wrong_format">The email address is badly formatted.</string>
+    <string name="user_not_found">This email is not registered yet</string>
+    <string name="invalid_password">Invalid user or password</string>
+    <string name="login_error_verify_email">Your email has not been verified yet</string>
+    <string name="verification_message_sent">Please go to your mail and verify your account to start using PetsCard. If you cannot see the mail, check your spam</string>
+</resources>
